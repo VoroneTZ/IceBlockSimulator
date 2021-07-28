@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.07.28 09:18:45.815,=C:\Users\vorontsov\Documents\Embarcadero\Studio\Projects\Unit12.pas</Transaction>
+    <Transaction>2021.07.28 09:21:01.476,C:\Users\vorontsov\Documents\GitHub\IceBlockSimulator\Unit1.fmx=C:\Users\vorontsov\Documents\Embarcadero\Studio\Projects\Unit12.fmx</Transaction>
+    <Transaction>2021.07.28 09:21:01.476,C:\Users\vorontsov\Documents\GitHub\IceBlockSimulator\Unit1.pas=C:\Users\vorontsov\Documents\Embarcadero\Studio\Projects\Unit12.pas</Transaction>
+    <Transaction>2021.07.28 09:21:13.124,C:\Users\vorontsov\Documents\GitHub\IceBlockSimulator\IceBlockSim.dproj=C:\Users\vorontsov\Documents\Embarcadero\Studio\Projects\Project8.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
